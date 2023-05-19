@@ -1,7 +1,7 @@
 ---
 title: My First Post
 date: 2023-05-12T15:11:57+02:00
-draft: true
+draft: false
 description: I am a test post
 tldr: summary
 tags: [test, hello, first post, tag]
