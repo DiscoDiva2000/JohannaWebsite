@@ -1,8 +1,8 @@
 ---
 title: Für die süßeste Maus der Welt
-date: 2023-05-21T15:11:57+02:00
+date: 2023-05-21
 draft: false
-description: digital Love Letter 
+description:
 tags: [love, letter, my, one, and, only]
 ---
 
