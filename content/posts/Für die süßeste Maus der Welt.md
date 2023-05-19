@@ -3,7 +3,6 @@ title: Für die süßeste Maus der Welt
 date: 2023-05-21T15:11:57+02:00
 draft: false
 description: digital Love Letter 
-tldr: "wenn ich in Wörtern baden könnte, ich würde es tun"
 tags: [love, letter, my, one, and, only]
 ---
 
