@@ -2,8 +2,6 @@
 title: A whole body, a whole human
 date: 2023-05-19T09:43:57+02:00
 draft: false
-description: I am a post
-tldr: 
 tags: [shortstory, scifi, cyborgs, humanoid, posthuman]
 ---
 
