@@ -1,7 +1,7 @@
 ---
 title: Essay: The Carrier Bag Theory of Fiction von Ursula K. Le Guin in Donna Haraways Staying with the Trouble
 date: 2023-06-21
-draft: true
+draft: false
 description: About the potential of the carrier bag
 tags: [essay, scifi, cyborgs, haraway, leguin, posthuman, feminism, carrierbag]
 ---
