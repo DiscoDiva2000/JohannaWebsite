@@ -46,8 +46,3 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
-
-[[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://www.instagram.com/johannalockw/"
