@@ -3,7 +3,7 @@ title: A whole body, a whole human
 date: 2023-05-19T09:43:57+02:00
 draft: false
 description: Shortstory about transhuman freedom
-tags: [shortstory, scifi, cyborgs, humanoid, posthuman]
+tags: [shortstory, scifi, cyborgs, humanoid, posthuman, feminism]
 ---
 
 ## A whole body, a whole human
