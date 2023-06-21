@@ -1,9 +1,9 @@
 ---
 title: Essay: The Carrier Bag Theory of Fiction von Ursula K. Le Guin in Donna Haraways Staying with the Trouble
-date: 2023-06-21
+date: 2023-06-21T09:43:57+02:00
 draft: false
-description: About the potential of the carrier bag
-tags: [essay, scifi, cyborgs, haraway, leguin, posthuman, feminism, carrierbag]
+description: Shortstory about transhuman freedom
+tags: [essay, scifi, haraway, leguin, posthuman, feminism, carrierbag]
 ---
 Donna Haraway stellt im Kapitel „Tentacular Thinking, Anthropocene, Capitaloscene, Chthuluscene” ihres Buchs _Staying with the Trouble_ die Carrier Bag Theory von Ursula K. Le Guin vor, über die Le Guin in ihrem Essay _The Carrier Bag Theory of Fiction_ von 1986 schreibt. Als Vorlage dient Le Guin dabei die Carrier Bag Theory of Evolution aus Elisabeth Fishers  _Woman's Creation: Sexual Evolution and the Shaping of Society_[^1]  von 1979 als Vorlage.
 Haraway spricht sich in Bezugnahme von Le Guins Carrier Bag Theory gegen das _prick tale_ aus, die klassische patriarchalische Struktur einer Erzählung, einer Weltanschauung, die sich einzig und allein mit dem Helden beschäftigt. Der Held, der das Mammut erlegt und dabei auf sich allein gestellt war. Der Held, der keine Hilfe benötigt. Der Held, der sich in ein Abenteuer stürzt, in dem es um Leben und Tod geht – weiter, höher, schneller. Der spitze Pfeil schießt durch die Luft ins Fleisch, das Mammut ist tot und _man_ ist zum Helden geworden.
