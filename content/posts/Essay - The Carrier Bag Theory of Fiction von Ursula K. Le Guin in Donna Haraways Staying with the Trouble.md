@@ -2,7 +2,7 @@
 title: Essay - The Carrier Bag Theory of Fiction von Ursula K. Le Guin in Donna Haraways Staying with the Trouble
 date: 2023-06-21T09:43:57+02:00
 draft: false
-description: Essay written in preparation on a longer paper about the potential of the Carrier Bag-Theory
+description: Essay written in preparation on a longer paper about the potential of the Carrier Bag-Theory (german)
 tags: [essay, scifi, haraway, leguin, posthuman, feminism, carrierbag]
 ---
 Donna Haraway stellt im Kapitel „Tentacular Thinking, Anthropocene, Capitaloscene, Chthuluscene” ihres Buchs _Staying with the Trouble_ die Carrier Bag Theory von Ursula K. Le Guin vor, über die Le Guin in ihrem Essay _The Carrier Bag Theory of Fiction_ von 1986 schreibt. Als Vorlage dient Le Guin dabei die Carrier Bag Theory of Evolution aus Elisabeth Fishers  _Woman's Creation: Sexual Evolution and the Shaping of Society_[^1]  von 1979 als Vorlage.
