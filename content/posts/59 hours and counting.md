@@ -3,7 +3,7 @@ title: 59 hours and counting
 date: 2023-07-16T09:43:57+02:00
 draft: false
 description: a poem
-tags: [poetry, feminism, patriarchy]
+tags:
 ---
 
 the patriarchy is too deep within me
