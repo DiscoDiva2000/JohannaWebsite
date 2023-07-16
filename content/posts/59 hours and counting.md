@@ -7,13 +7,19 @@ tags: [poetry, feminism, patriarchy]
 ---
 
 the patriarchy is too deep within me
+
 how do I get it out
 
 like a parasite
+
 it takes over from time to time
 
 scoop it out with a spoon
+
 old peanut butter in a jar
+
 ingest the rest
+
 pass right through me
+
 and shit it out
