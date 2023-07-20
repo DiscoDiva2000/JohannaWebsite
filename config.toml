@@ -39,7 +39,7 @@ weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about/about/"
+url = "/about/"
 weight = 3
 
 [[menu.main]]
@@ -49,5 +49,5 @@ weight = 4
 
 [[menu.main]]
 name = "Inspiration"
-url = "/inspiration/inspiration/"
+url = "/inspiration/"
 weight = 5
