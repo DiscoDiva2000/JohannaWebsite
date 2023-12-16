@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Johanna Flasshaar'
-theme = 'archie'
+theme = 'PaperMod'
 copyright = "© Johanna Flasshaar"
 
 # Code Highlight
