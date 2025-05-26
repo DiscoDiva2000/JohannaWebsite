@@ -1,6 +1,6 @@
 ---
 title: about
-date: 2023-07-20T09:43:57+02:00
+date: 2025-05-26
 draft: false
 description: 
 tags: 
