@@ -6,7 +6,7 @@ description:
 tags: 
 ---
 
-I'm a freelance writer, graphic designer, editor and proofreader. I write poetry, essays and short stories, but I have some longer pieces of writing coming up soon, so stay tuned for updates!
+Ich schreibe für mich selbst und für andere, mache Content für den Suhrkamp Verlag und versuche mir gerade das DJen beizubringen – ich bin wie jede*r andere, was soll ich sagen.
 
-If you want to know more about me, check out the [inspiration](https://discodiva2000.github.io/JohannaWebsite/inspiration/) page or my [Instagram](https://www.instagram.com/johannalockw/).
+Du willst mehr über mich wissen? Ich befülle gerade die Seite mit [Inspiration](https://discodiva2000.github.io/JohannaWebsite/inspiration/) und habe natürlich einen [Instagram](https://www.instagram.com/johannalockw/) Account. Darüber kann man mich übrigens auch am besten kontaktieren, solltest Du was zu sagen haben.
 
